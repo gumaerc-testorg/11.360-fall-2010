@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 8bdc0e15-fab4-a6d3-17db-e0b3e8a58729
 resourcetype: Document
 title: Slide 1
 uid: efe6611f-2bd9-0edf-01a1-4d78f769324e

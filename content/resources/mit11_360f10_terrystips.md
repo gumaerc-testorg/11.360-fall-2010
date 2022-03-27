@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: df38d183-559a-562b-dfab-9e7846d79186
 resourcetype: Document
 title: "Terry\u2019s Tips for Readying A Plan for Adoption and Success"
 uid: 336f7c7a-e601-5ef2-b560-52c747031ccd
