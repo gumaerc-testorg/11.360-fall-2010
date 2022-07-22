@@ -6,6 +6,7 @@ file: /courses/11-360-community-growth-and-land-use-planning-fall-2010/336f7c7ae
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Terry\u2019s Tips for Readying A Plan for Adoption and Success"
 uid: 336f7c7a-e601-5ef2-b560-52c747031ccd
 ---
 Tips from the professor on readying a land use plan for adoption and success.
-
