@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides an overview of the course and information on meeting
+  times, prerequisites, the "Envisioning Needham Street" plan, course format, and
+  evaluation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9d71eeee-067e-7d0b-3774-427e9218dac3
 ---
