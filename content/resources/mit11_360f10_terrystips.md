@@ -2,7 +2,7 @@
 content_type: resource
 description: Tips from the professor on readying a land use plan for adoption and
   success.
-file: /ol-ocw-studio-app/courses/11-360-community-growth-and-land-use-planning-fall-2010/336f7c7ae6015ef2b56052c747031ccd_MIT11_360F10_terrystips.pdf
+file: /courses/11-360-community-growth-and-land-use-planning-fall-2010/336f7c7ae6015ef2b56052c747031ccd_MIT11_360F10_terrystips.pdf
 file_size: 34416
 file_type: application/pdf
 learning_resource_types:
